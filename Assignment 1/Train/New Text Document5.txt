@@ -1,0 +1,1 @@
+In supervised learning we supervise machine at every step. We provide label data . While in unsupervised learning machine learn by trial and error.

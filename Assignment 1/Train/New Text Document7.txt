@@ -1,0 +1,1 @@
+By literal meaning I guess the difference is in machine learning with absence of some sort of supervision that differentiates relevent or correct data from the wrong or irrelevant one.

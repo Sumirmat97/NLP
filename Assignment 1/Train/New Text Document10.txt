@@ -1,0 +1,1 @@
+in supervised learning we will be provided with labeled data ,and it will have more experience while in case of unsupervised data we will get provided by basic examples.

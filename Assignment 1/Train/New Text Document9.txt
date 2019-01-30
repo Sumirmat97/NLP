@@ -1,0 +1,2 @@
+Supervised-testing on known outcomes
+Unsupervised-testing on unknown outcomes

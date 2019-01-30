@@ -1,0 +1,1 @@
+Supervised learning is the learning of a model where with input variable and output variable and an algorithm to map the input to the output.

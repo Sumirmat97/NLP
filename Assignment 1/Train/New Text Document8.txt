@@ -1,0 +1,1 @@
+Supervised learning is the learning which is performed under guidance whereas in unsupervised learning , the machine learns by itself after doing some mistakes and learning from them.

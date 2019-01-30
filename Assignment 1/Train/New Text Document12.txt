@@ -1,0 +1,4 @@
+In supervised
+We learn in proper manner and at low pace
+In unsupervised
+It is unproper, not appropriate knowledge

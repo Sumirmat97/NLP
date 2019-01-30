@@ -1,0 +1,2 @@
+In supervised we give labelled data with all input and output so that we can predict an approximate value
+Where as in unsupervised we give only some inputs so that machine will learn it by finding similarities(I think .)

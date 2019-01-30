@@ -1,0 +1,1 @@
+In supervised learning we train the model to learn on labelled data while in unsupervised learning we leave the model free to learn from the data by itself

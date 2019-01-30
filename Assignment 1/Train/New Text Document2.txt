@@ -1,0 +1,1 @@
+Input object with a desired output value is called supervised and not labeled is unsupervised. 

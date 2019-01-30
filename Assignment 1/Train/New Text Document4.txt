@@ -1,0 +1,2 @@
+Um.. like supervised learning is like we want one answer(linear regression)
+And in unsupervised learning we don't want any answer, we want something like cluster or classified model

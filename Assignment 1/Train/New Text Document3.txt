@@ -1,0 +1,1 @@
+In Supervised learning, we train the program by giving out the data set ourselves. But in unsupervised learning the program learns itself.
